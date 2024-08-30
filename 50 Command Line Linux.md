@@ -184,28 +184,74 @@ Perintah exit digunakan untuk keluara dari shell terminal yang sedanng digunakan
 
 32.clear
 
+![Screenshot from 2024-08-30 21-19-34](https://github.com/user-attachments/assets/ae1a977f-1552-4179-bef2-df53605238b0)
+
+Perintah clear digunakan untuk membersihkan layar terminal.
+
+33.echo
+
+![Screenshot from 2024-08-30 21-08-26](https://github.com/user-attachments/assets/a066c77d-1af9-40a9-83a8-258e51004c3c)
+
+Perintah echo digunakan untuk menampilkan teks ke terminal.
+
+34.sudo apt update
+
+![Screenshot from 2024-08-30 15-36-50](https://github.com/user-attachments/assets/36e10116-434f-41e9-b394-cc61d305c2ea)
+
+Perintah sudo apt update digunakan untuk memperbarui database lokal yang berisi informasi tentang perangkat lunak yang tersedia, versi baru, dan pembaruan yang sudah dirilis.
+
+35.less
+
+![Screenshot from 2024-08-30 21-13-10](https://github.com/user-attachments/assets/6555da77-ca32-49a0-91a7-459a23d1a66b)
+
+Perintah less digunakan untuk menampilkan isi file satu layar di terminal pada satu waktu.
+
+36.top
+
+![Screenshot from 2024-08-30 21-14-39](https://github.com/user-attachments/assets/7020e410-0961-49f9-81cd-0e3d84fce228)
+
+Perintah top digunakan untuk menampilkan informasi real time tentang proses yang sedang berjalan di sistem.
+
+37.free
+
+![Screenshot from 2024-08-30 21-15-34](https://github.com/user-attachments/assets/356074e3-4514-45d7-949c-c05b3fdd7e35)
+
+Perintah free -m digunakan untuk menampilkan informasi tentang penggunaan memori sistem dalam satuan megabyte (mb).
+
+38.uname
+
+![Screenshot from 2024-08-30 21-16-03](https://github.com/user-attachments/assets/e9f9bcd7-5bbe-4484-8a6a-af5b4235157d)
+
+Perintah uname -a digunakan untuk menampilkan informasi tentang sistem operasi dan kernel yang sedang digunakan.
+
+39.whoami
+
+![Screenshot from 2024-08-30 21-16-47](https://github.com/user-attachments/assets/ccdcd492-87f1-4ad0-8d96-3c56a90680f2)
+
+Perintah whoami digunakan untuk menampilkan nama pengguna yang sedang aktif atau yang sedang menjalankan perintah di terminal.
+
+40.hostname
+
+![Screenshot from 2024-08-30 21-16-58](https://github.com/user-attachments/assets/cc871fe8-435c-4212-95d5-d833c30ab5e3)
+
+Perintah hostname digunakan untuk menampilkan atau mengatur nama host dari sistem.
+
+41.history
 
 
-33.
 
-34.
 
-35.
-
-36.
-
-37.
-
-38.
-
-39.
-
-40.
+42.env
 
 
 
 
+43.
 
+44.
 
+45.
 
+46.
 
+47.
