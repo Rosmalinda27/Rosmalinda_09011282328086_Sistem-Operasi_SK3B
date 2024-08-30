@@ -6,7 +6,7 @@ Perintah pwd digunakan untuk menampilkan lokasi direktori kerja yang sedang digu
 2.mkdir
 
 ![Screenshot from 2024-08-30 15-45-50](https://github.com/user-attachments/assets/b1856ea5-9ca5-4e48-bf43-b7b23e90a20c)                                              
-Perintah mkdir digunakan untuk membuat direktori (folder) baru di direktori mamnapun.
+Perintah mkdir digunakan untuk membuat direktori (folder) baru di direktori manapun.
 
 3.rmdir
 
@@ -238,20 +238,65 @@ Perintah hostname digunakan untuk menampilkan atau mengatur nama host dari siste
 
 41.history
 
+![Screenshot from 2024-08-30 21-35-26](https://github.com/user-attachments/assets/0398f51e-886b-4f29-9fd4-ef22e35ebf76)
 
-
+Perintah history digunakan untuk menampilkan daftar perintah yang gelah dijalankan di terminal.
 
 42.env
 
+![Screenshot from 2024-08-30 21-35-49](https://github.com/user-attachments/assets/6b8f1dd9-75ca-4962-a2ca-af67c92b1f4d)
+
+Perintah env digunakan untuk menampilkan atau mengatur variabel lingkungan.Variabel lingkungan merupakan pasangan nilai yang memengaruhi cara proses di sistem operasi beroperasi.
+
+43.man ls
+
+![Screenshot from 2024-08-30 21-40-52](https://github.com/user-attachments/assets/d6d5b49c-9967-4159-aca3-371fb176700b)
+
+Perintah man ls digunakan untuk menampilkan halaman manual untuk perintah ls.Halaman manual ini menampilkan informasi terperinci cara menggunakan perintah ls.
+
+44.ps
+
+![Screenshot from 2024-08-30 21-41-06](https://github.com/user-attachments/assets/66b53e61-1b04-484f-a1f3-15d8fd229ce8)
+
+Perintah ps digunakan untuk menampilkan informasi tentang proses yang sedang berjalan di sistem. 
+
+45.du
+
+![Screenshot from 2024-08-30 21-41-31](https://github.com/user-attachments/assets/56be1006-4b58-4808-b08e-bbfb32372585)
+
+Perintah du digunkan untuk menampilkan penggunaan ruang disk oleh file dan direktori.
+
+46.ip a
+
+![Screenshot from 2024-08-30 21-42-18](https://github.com/user-attachments/assets/4b9e3b97-377e-41ab-985d-f18b9b68359c)
+
+Perintah ip a digunakan untuk menampilkan tentang alamat ip yang dikonfigurasi pada semua antarmuka jaringan di sistem.
+
+47.locate
+
+![Screenshot from 2024-08-30 21-47-12](https://github.com/user-attachments/assets/b4c9983a-2236-400f-89dd-5a27a1cf3afa)
+
+Perintah locate digunakan untuk mencari file dan direktori di sistem berdasarkan nama filenya sendiri.
+
+48.diff
+
+![Screenshot from 2024-08-30 21-48-54](https://github.com/user-attachments/assets/1fb6effd-014c-45d8-a19e-144089508fb6)
+
+Perintah diff digunakan untuk membandingkan dua file teks dan menampilkan perbedaan di antara kedua file tersebut.
+
+49.chmod
+
+![Screenshot from 2024-08-30 21-51-01](https://github.com/user-attachments/assets/47e824b0-0aca-4224-ae7b-76b577486bcd)
+
+Perintah chmod digunakan untuk mengubah izin akses pada file dan direktori.Izin akses menentukan siapa yang dapat membaca, menulis, dan mengeksekusi file atau direktori tersebut.
+
+50.lsb_release -a
+
+![Screenshot from 2024-08-30 21-57-32](https://github.com/user-attachments/assets/4c05998c-0c76-4491-920b-e412b7d81c94)
+
+Perintah lsb_release -a digunakan untuk menampilkan informasi detail tentang distribusi linux yang sedang digunakan seperti nama, distribusi, versi, dan rilis.
 
 
 
-43.
 
-44.
 
-45.
-
-46.
-
-47.
