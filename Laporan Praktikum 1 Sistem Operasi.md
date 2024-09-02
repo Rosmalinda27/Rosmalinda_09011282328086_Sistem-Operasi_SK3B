@@ -49,7 +49,7 @@
 12.	Pilih Erase disk and Install Ubuntu, pilihan ini berarti kita menginstall ubuntu dengan menggunakan partisi hardisk sepenuhnya tanpa mengsetting secara manual. <br/>
 <img src="https://github.com/user-attachments/assets/be0def6b-71fd-40f5-b2da-56e1f8b76870" width=500/>
 <br/>
-13)	Disini bisa diisi untuk nama dan password nya. <br/>
+13.	Disini bisa diisi untuk nama dan password nya. <br/>
 <img src="https://github.com/user-attachments/assets/730bc07c-10f6-49f8-b0ab-84017afad76d" width=500/>
 <br/>
 14.	Lalu untuk wilayah kita pilih Jakarta <br/>
