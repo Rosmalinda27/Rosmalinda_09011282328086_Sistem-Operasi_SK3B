@@ -1,7 +1,7 @@
 <h1> LAPORAN PRAKTIKUM 1 SISTEM OPERASI </h1>
 <h2> PENDAHULUAN </h2>
 <h3> LATAR BELAKANG </h3>
-<P> Program yang digunakan sebagai jembatan atau penghubung antara pengguna dan perangkat keras adalah Sistem Operasi. Sistem operasi merupakan hal yang paling penting dari perangkat lunak dalam system Komputer. Oleh karena itu, Perangkat keras komputer dapat berfungsi dan memberikan akses bagi aplikasi untuk berjalan. Sistem Operasi mengelola sumber daya system seperti memori, prosesor, dan perangkat input/output. Fungsi dasar Sistem Operasi ialah manajemen proses, manajemen memori, sistem file, serta control perangkat. </P> 
+<P> Program yang digunakan sebagai jembatan atau penghubung antara perangkat lunak dan perangkat keras adalah Sistem Operasi. Sistem operasi merupakan hal yang paling penting dari perangkat lunak dalam system Komputer. Oleh karena itu, Perangkat keras komputer dapat berfungsi dan memberikan akses bagi aplikasi untuk berjalan. Sistem Operasi mengelola sumber daya system seperti memori, prosesor, dan perangkat input/output. Fungsi dasar Sistem Operasi ialah manajemen proses, manajemen memori, sistem file, serta control perangkat. </P> 
 <P> Salah satu sistem operasi yang paling banyak digunakan didunia saat ini adalah Linux. Linux merupakan sistem operasi open-source yang dikenal karena fleksibilitasnya, dan keamanan yang tinggi. Linux menyediakan berbagai distribusi, seperti Ubuntu, Fedora, dan CentOS. Pada praktikum ini distribusi yang digunakan ialah Ubuntu. Dengan praktikum ini, kita diharapkan dapat memahami dasar-dasar sistem operasi Linux termasuk cara instalasi nya dan menganalisis proses instalasi sistem operasi linux. </P>
 <h3> TUJUAN </h3>
 1.	Mengetahui prosedur instalasi pada sistem operasi Linux. <br/>
